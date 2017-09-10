@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C5FDADB4-7319-B853-E45B-05140EAB4CB5}") = "VrWeb", "Assembly-CSharp.csproj", "{52591F5B-9734-7552-CE6A-B6E81607361A}"
+EndProject
+Project("{C5FDADB4-7319-B853-E45B-05140EAB4CB5}") = "VrWeb", "Assembly-CSharp-Editor.csproj", "{F82F352B-0A07-AD57-42F6-5442DCCA98FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52591F5B-9734-7552-CE6A-B6E81607361A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52591F5B-9734-7552-CE6A-B6E81607361A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52591F5B-9734-7552-CE6A-B6E81607361A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52591F5B-9734-7552-CE6A-B6E81607361A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F82F352B-0A07-AD57-42F6-5442DCCA98FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82F352B-0A07-AD57-42F6-5442DCCA98FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82F352B-0A07-AD57-42F6-5442DCCA98FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82F352B-0A07-AD57-42F6-5442DCCA98FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
