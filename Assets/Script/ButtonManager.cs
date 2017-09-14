@@ -15,6 +15,6 @@ public class ButtonManager : MonoBehaviour {
 	}
 
 	public void LoadScene(){
-		SceneManager.LoadScene ("ContentScene");
+		SceneManager.LoadScene ("MainScene 1");
 	}
 }
