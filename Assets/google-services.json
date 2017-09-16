@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "746003371878",
+    "firebase_url": "https://fypwebsearch.firebaseio.com",
+    "project_id": "fypwebsearch",
+    "storage_bucket": "fypwebsearch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746003371878:android:ce189552bda9ad07",
+        "android_client_info": {
+          "package_name": "com.fypvr.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746003371878-gl7k1bg2ev38inn0m77885dj05h19k0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACU7QVaftaKSAuhxxBWmXcUeW2jPVTkfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
